@@ -1,0 +1,6 @@
+- add env file and standard conf in config.js 
+- add like/liked/dislike/disliked relations to models 
+- add image upload feature to Shop model
+- fix the env variables values
+- create and test routes 
+
